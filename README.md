@@ -12,4 +12,4 @@ I am a Frontend Developer
 
 ## Most Used Languages
 
-[!Al 'Amin GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdal-amin)](https://github.com/anuraghazra/github-readme-stats)
+[!Al 'Amin GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhdal-Amin)]
