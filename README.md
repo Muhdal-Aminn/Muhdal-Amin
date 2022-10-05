@@ -10,4 +10,6 @@ I am a Frontend Developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git & GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-![Top Languages](img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878)
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhdal-Amin&theme=tokyonight)
