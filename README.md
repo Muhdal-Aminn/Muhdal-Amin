@@ -12,8 +12,6 @@ I am a Frontend Developer
 
 ## GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=[Muhdal-Amin]
-
 ![Al 'Amin GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhdal-Amin)
 
 ## Most Used Languages
