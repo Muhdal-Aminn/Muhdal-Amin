@@ -1,5 +1,7 @@
 # Hi there👋 I'm AL 'AMIN
 
+![gitartwork](gitartwork.svg)
+
 I am a Frontend Developer
 
 ## Tech Stack
