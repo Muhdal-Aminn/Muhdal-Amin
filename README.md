@@ -12,7 +12,7 @@
 
 - **Backend:** C, Shell
 
-🎈 <b>Fun fact:</b>  I'm also a Writer!.
+🎈 <b>Fun fact:</b>  I'm also a Writer!
 
 ### Connect with me
 <a href= "mailto: adalemo2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
