@@ -1,8 +1,19 @@
-# Hi there👋 I'm AL 'AMIN
+# Hi there!👋
 
 ![gitartwork](gitartwork.svg)
 
-I am a Frontend Developer
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+
+👩‍💻 <b>About me:</b> I'm Al-Amin an Independent, Innovative, Creative and Detail-oriented Front-end Developer. 
+
+🛠 <b>Tech Stack</b>
+
+- **Frontend:** HTML, CSS, SASS, JavaScript
+
+- **Backend:** C, Shell
+
+🎈 <b>Fun fact:</b>  I'm also a Writer!.
+
 
 ## Tech Stack
 
