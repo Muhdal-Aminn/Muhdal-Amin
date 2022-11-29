@@ -51,29 +51,12 @@ Name | Badges
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhdal-Amin&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;
   
- <img alt="Al-Amin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhdal-Amin&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
+<img alt="Al-Amin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhdal-Amin&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhdal-Amin&theme=omni&show_icons=true) 
 
-  <br/>
+<br/>
  
  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Muhdal-Amin">
 </a>
-
-
-## Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git & GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-
-## GitHub Stats
-
-![Al 'Amin GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhdal-Amin)
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhdal-Amin&layout=compact)
