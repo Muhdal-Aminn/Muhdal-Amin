@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-👩‍💻 <b>About me:</b> I'm Al-Amin an Independent, Innovative, Creative and Detail-oriented Front-end Developer. 
+👩‍💻 <b>About me:</b> I'm Al-Amin, an Independent, Innovative, Creative and Detail-oriented Front-end Developer. 
 
 🛠 <b>Tech Stack</b>
 
