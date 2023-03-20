@@ -49,9 +49,9 @@ Name | Badges
 
 ## 📈 Github Stats
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhdal-Amin&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Al 'Amin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhdal-Amin&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" PAT_1/></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhdal-Amin&theme=omni)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Al 'Amin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhdal-Amin&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhdal-Amin&theme=omni&show_icons=true PAT_1) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhdal-Amin&theme=omni&show_icons=true) 
 
   <br/>
  
