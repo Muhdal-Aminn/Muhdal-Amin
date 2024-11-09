@@ -4,13 +4,19 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-👩‍💻 <b>About me:</b> I'm Al 'Amin, an Independent, Innovative, Creative and Detail-oriented Front-end Developer. 
+👩‍💻 <b>About me:</b> I'm Al 'Amin, a multifaceted Front-End engineer with a passion for crafting captivating digital experiences. With a keen eye for detail and a refined talent for innovative design, wearing many hats, I seamlessly transition between design architect, coding maestro and user experience advocate. 
 
 🛠 <b>Tech Stack</b>
 
-- **Frontend:** HTML, CSS, SASS, JavaScript
+- **Programming Languages:** HTML, CSS, JavaScript(ES6+), C, Python, SQL
 
-- **Backend:** C, Python, Shell
+- **Frameworks & Libraries:** ReactJS, Bootstrap, Tailwind CSS, SCSS, Framer Motion
+
+- **Build Tools:** Vite, Webpack
+
+- **UI Libraries & Design Systems :** Shadcn UI, Material UI, Fluid UI
+
+- **Version Control:** Git, GitLab, GitHub
 
 🎈 <b>Fun fact:</b>  I'm also a Writer!
 
@@ -37,13 +43,13 @@ Name | Badges
 
 ### 👔 Soft skills
 
-✅ Work collaboratively in a team
+✅ Rapt Attention To Details
 
-✅ Meet tight deadlines
+✅ Time Management and Multitasking
 
-✅ Good communication skills
+✅ Effective Communication
 
-✅ Rapt attention to details
+✅ Collaboration and Teamwork
 
 <hr>
 
