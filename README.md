@@ -55,10 +55,10 @@ Name | Badges
 
 ## 📈 Github Stats
   
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Al 'Amin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhdal-Amin&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117"/></a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Muhdal-Amin&theme=dark)](https://git.io/streak-stats)<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Al 'Amin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhdal-Amin&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117"/></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhdal-Amin&theme=omni&show_icons=true) 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Muhdal-Amin&theme=dark)](https://git.io/streak-stats)
+
 
   <br/>
  
